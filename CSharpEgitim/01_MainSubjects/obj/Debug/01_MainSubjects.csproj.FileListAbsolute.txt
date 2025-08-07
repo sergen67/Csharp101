@@ -1,0 +1,8 @@
+C:\Users\Sergen\source\repos\CSharpEgitim\01_MainSubjects\bin\Debug\01_MainSubjects.exe.config
+C:\Users\Sergen\source\repos\CSharpEgitim\01_MainSubjects\bin\Debug\01_MainSubjects.exe
+C:\Users\Sergen\source\repos\CSharpEgitim\01_MainSubjects\bin\Debug\01_MainSubjects.pdb
+C:\Users\Sergen\source\repos\CSharpEgitim\01_MainSubjects\obj\Debug\01_MainSubjects.csproj.AssemblyReference.cache
+C:\Users\Sergen\source\repos\CSharpEgitim\01_MainSubjects\obj\Debug\01_MainSubjects.csproj.CoreCompileInputs.cache
+C:\Users\Sergen\source\repos\CSharpEgitim\01_MainSubjects\obj\Debug\01_MainSubjects.exe
+C:\Users\Sergen\source\repos\CSharpEgitim\01_MainSubjects\obj\Debug\01_MainSubjects.pdb
+C:\Users\Sergen\source\repos\CSharpEgitim\01_MainSubjects\obj\Debug\01_MainSubjects.exe.config
