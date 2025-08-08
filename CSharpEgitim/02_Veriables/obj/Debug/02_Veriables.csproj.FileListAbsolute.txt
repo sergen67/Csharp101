@@ -1,0 +1,8 @@
+C:\Users\Sergen\source\repos\CSharpEgitim\02_Veriables\bin\Debug\02_Veriables.exe.config
+C:\Users\Sergen\source\repos\CSharpEgitim\02_Veriables\bin\Debug\02_Veriables.exe
+C:\Users\Sergen\source\repos\CSharpEgitim\02_Veriables\bin\Debug\02_Veriables.pdb
+C:\Users\Sergen\source\repos\CSharpEgitim\02_Veriables\obj\Debug\02_Veriables.csproj.AssemblyReference.cache
+C:\Users\Sergen\source\repos\CSharpEgitim\02_Veriables\obj\Debug\02_Veriables.csproj.CoreCompileInputs.cache
+C:\Users\Sergen\source\repos\CSharpEgitim\02_Veriables\obj\Debug\02_Veriables.exe
+C:\Users\Sergen\source\repos\CSharpEgitim\02_Veriables\obj\Debug\02_Veriables.pdb
+C:\Users\Sergen\source\repos\CSharpEgitim\02_Veriables\obj\Debug\02_Veriables.exe.config

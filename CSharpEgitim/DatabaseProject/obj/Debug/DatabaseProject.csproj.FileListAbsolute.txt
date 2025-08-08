@@ -1,0 +1,8 @@
+C:\Users\Sergen\source\repos\CSharpEgitim\DatabaseProject\bin\Debug\DatabaseProject.exe.config
+C:\Users\Sergen\source\repos\CSharpEgitim\DatabaseProject\bin\Debug\DatabaseProject.exe
+C:\Users\Sergen\source\repos\CSharpEgitim\DatabaseProject\bin\Debug\DatabaseProject.pdb
+C:\Users\Sergen\source\repos\CSharpEgitim\DatabaseProject\obj\Debug\DatabaseProject.csproj.AssemblyReference.cache
+C:\Users\Sergen\source\repos\CSharpEgitim\DatabaseProject\obj\Debug\DatabaseProject.csproj.CoreCompileInputs.cache
+C:\Users\Sergen\source\repos\CSharpEgitim\DatabaseProject\obj\Debug\DatabaseProject.exe
+C:\Users\Sergen\source\repos\CSharpEgitim\DatabaseProject\obj\Debug\DatabaseProject.pdb
+C:\Users\Sergen\source\repos\CSharpEgitim\DatabaseProject\obj\Debug\DatabaseProject.exe.config

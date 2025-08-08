@@ -1,0 +1,8 @@
+C:\Users\Sergen\source\repos\CSharpEgitim\DatabasesCrud\bin\Debug\DatabasesCrud.exe.config
+C:\Users\Sergen\source\repos\CSharpEgitim\DatabasesCrud\bin\Debug\DatabasesCrud.exe
+C:\Users\Sergen\source\repos\CSharpEgitim\DatabasesCrud\bin\Debug\DatabasesCrud.pdb
+C:\Users\Sergen\source\repos\CSharpEgitim\DatabasesCrud\obj\Debug\DatabasesCrud.csproj.AssemblyReference.cache
+C:\Users\Sergen\source\repos\CSharpEgitim\DatabasesCrud\obj\Debug\DatabasesCrud.csproj.CoreCompileInputs.cache
+C:\Users\Sergen\source\repos\CSharpEgitim\DatabasesCrud\obj\Debug\DatabasesCrud.exe
+C:\Users\Sergen\source\repos\CSharpEgitim\DatabasesCrud\obj\Debug\DatabasesCrud.pdb
+C:\Users\Sergen\source\repos\CSharpEgitim\DatabasesCrud\obj\Debug\DatabasesCrud.exe.config
