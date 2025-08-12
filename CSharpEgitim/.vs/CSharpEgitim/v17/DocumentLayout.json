@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sergen\\source\\repos\\CSharpEgitim\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F29FE87-F83C-49A5-82A4-CD8C8FB7C38F}|DatabaseProject\\DatabaseProject.csproj|C:\\Users\\Sergen\\source\\repos\\CSharpEgitim\\databaseproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F29FE87-F83C-49A5-82A4-CD8C8FB7C38F}|DatabaseProject\\DatabaseProject.csproj|solutionrelative:databaseproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{521CE2B2-B7C4-43FC-810E-C653F624DE6A}|02_Veriables\\02_Veriables.csproj|C:\\Users\\Sergen\\source\\repos\\CSharpEgitim\\02_veriables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{521CE2B2-B7C4-43FC-810E-C653F624DE6A}|02_Veriables\\02_Veriables.csproj|solutionrelative:02_veriables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71A18CE1-41B9-4AB9-88D2-01C11FA0762E}|DatabasesCrud\\DatabasesCrud.csproj|c:\\users\\sergen\\source\\repos\\csharpegitim\\databasescrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71A18CE1-41B9-4AB9-88D2-01C11FA0762E}|DatabasesCrud\\DatabasesCrud.csproj|solutionrelative:databasescrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CBFB4C4-2238-4D4A-9042-E157B3080C6E}|Metotlar\\Metotlar.csproj|C:\\Users\\Sergen\\source\\repos\\CSharpEgitim\\metotlar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CBFB4C4-2238-4D4A-9042-E157B3080C6E}|Metotlar\\Metotlar.csproj|solutionrelative:metotlar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4259EE94-7839-47AC-AD21-8D3DCEE59E6A}|LoopWithStarts\\LoopWithStarts.csproj|C:\\Users\\Sergen\\source\\repos\\CSharpEgitim\\loopwithstarts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4259EE94-7839-47AC-AD21-8D3DCEE59E6A}|LoopWithStarts\\LoopWithStarts.csproj|solutionrelative:loopwithstarts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B2F2AF-A620-4123-809F-5C28DF633FD8}|01_MainSubjects\\01_MainSubjects.csproj|C:\\Users\\Sergen\\source\\repos\\CSharpEgitim\\01_mainsubjects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B2F2AF-A620-4123-809F-5C28DF633FD8}|01_MainSubjects\\01_MainSubjects.csproj|solutionrelative:01_mainsubjects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sergen\\source\\repos\\CSharpEgitim\\DatabasesCrud\\Program.cs",
+              "RelativeDocumentMoniker": "DatabasesCrud\\Program.cs",
+              "ToolTip": "C:\\Users\\Sergen\\source\\repos\\CSharpEgitim\\DatabasesCrud\\Program.cs",
+              "RelativeToolTip": "DatabasesCrud\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T13:06:49.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sergen\\source\\repos\\CSharpEgitim\\DatabaseProject\\Program.cs",
+              "RelativeDocumentMoniker": "DatabaseProject\\Program.cs",
+              "ToolTip": "C:\\Users\\Sergen\\source\\repos\\CSharpEgitim\\DatabaseProject\\Program.cs",
+              "RelativeToolTip": "DatabaseProject\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwDIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T12:41:47.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sergen\\source\\repos\\CSharpEgitim\\Metotlar\\Program.cs",
+              "RelativeDocumentMoniker": "Metotlar\\Program.cs",
+              "ToolTip": "C:\\Users\\Sergen\\source\\repos\\CSharpEgitim\\Metotlar\\Program.cs",
+              "RelativeToolTip": "Metotlar\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T07:11:32.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sergen\\source\\repos\\CSharpEgitim\\LoopWithStarts\\Program.cs",
+              "RelativeDocumentMoniker": "LoopWithStarts\\Program.cs",
+              "ToolTip": "C:\\Users\\Sergen\\source\\repos\\CSharpEgitim\\LoopWithStarts\\Program.cs",
+              "RelativeToolTip": "LoopWithStarts\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T07:01:58.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sergen\\source\\repos\\CSharpEgitim\\02_Veriables\\Program.cs",
+              "RelativeDocumentMoniker": "02_Veriables\\Program.cs",
+              "ToolTip": "C:\\Users\\Sergen\\source\\repos\\CSharpEgitim\\02_Veriables\\Program.cs",
+              "RelativeToolTip": "02_Veriables\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T06:53:05.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sergen\\source\\repos\\CSharpEgitim\\01_MainSubjects\\Program.cs",
+              "RelativeDocumentMoniker": "01_MainSubjects\\Program.cs",
+              "ToolTip": "C:\\Users\\Sergen\\source\\repos\\CSharpEgitim\\01_MainSubjects\\Program.cs",
+              "RelativeToolTip": "01_MainSubjects\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwGYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T06:05:52.157Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

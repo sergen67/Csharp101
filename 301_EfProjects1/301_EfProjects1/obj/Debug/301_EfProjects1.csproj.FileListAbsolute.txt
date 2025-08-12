@@ -1,0 +1,17 @@
+C:\Users\Sergen\source\repos\301_EfProjects1\301_EfProjects1\obj\Debug\301_EfProjects1.csproj.AssemblyReference.cache
+C:\Users\Sergen\source\repos\301_EfProjects1\301_EfProjects1\obj\Debug\_301_EfProjects1.Properties.Resources.resources
+C:\Users\Sergen\source\repos\301_EfProjects1\301_EfProjects1\obj\Debug\301_EfProjects1.csproj.GenerateResource.cache
+C:\Users\Sergen\source\repos\301_EfProjects1\301_EfProjects1\obj\Debug\301_EfProjects1.csproj.CoreCompileInputs.cache
+C:\Users\Sergen\source\repos\301_EfProjects1\301_EfProjects1\bin\Debug\301_EfProjects1.exe.config
+C:\Users\Sergen\source\repos\301_EfProjects1\301_EfProjects1\bin\Debug\301_EfProjects1.exe
+C:\Users\Sergen\source\repos\301_EfProjects1\301_EfProjects1\bin\Debug\301_EfProjects1.pdb
+C:\Users\Sergen\source\repos\301_EfProjects1\301_EfProjects1\bin\Debug\EntityFramework.dll
+C:\Users\Sergen\source\repos\301_EfProjects1\301_EfProjects1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sergen\source\repos\301_EfProjects1\301_EfProjects1\bin\Debug\EntityFramework.xml
+C:\Users\Sergen\source\repos\301_EfProjects1\301_EfProjects1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sergen\source\repos\301_EfProjects1\301_EfProjects1\obj\Debug\301_EfPr.6955A5FA.Up2Date
+C:\Users\Sergen\source\repos\301_EfProjects1\301_EfProjects1\obj\Debug\301_EfProjects1.exe
+C:\Users\Sergen\source\repos\301_EfProjects1\301_EfProjects1\obj\Debug\301_EfProjects1.pdb
+C:\Users\Sergen\source\repos\301_EfProjects1\301_EfProjects1\obj\Debug\301_EfProjects1.exe.config
+C:\Users\Sergen\source\repos\301_EfProjects1\301_EfProjects1\obj\Debug\_301_EfProjects1.FrmLocation.resources
+C:\Users\Sergen\source\repos\301_EfProjects1\301_EfProjects1\obj\Debug\_301_EfProjects1.FrmStatistics.resources
